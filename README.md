@@ -1,10 +1,15 @@
 Project structure
 
 ├── modules 
+
 ├── navigation
+
 ├── services
+
 ├── sharedComponents
+
 └── README.md
+
 └── utils
 
 1. modules : This folder contains all the screens of the application along with their state management
